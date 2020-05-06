@@ -1,0 +1,166 @@
+.results-number > div, .pool-result > div, .angka-keluar > div{
+	display: inline-block;
+	margin-left: 3px;
+}
+
+td.text-center div{
+	display: inline-block;
+}
+
+.table.table-bordered.legend{
+	text-align: center;
+}
+
+.table.table-bordered.legend div{
+	display: inline-block;
+}
+
+._12d-ic{
+	background: url(../img/game_compressed_ic/12d.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+._24d-ic{
+	background: url(../img/game_compressed_ic/24d.png) no-repeat;
+	background-size: cover;
+	
+	width: 25px;
+	height: 25px;
+}
+
+.dice-ic{
+	background: url(../../images/nomor/pd/dices2.png) no-repeat;
+	width: 20px;
+	height: 20px;
+}
+
+.dicesd-ic{
+	background: url(../../images/nomor/dicesd.png) no-repeat;
+	background-size: cover;
+	width: 20px;
+	height: 20px;
+}
+
+.gb-ic{
+	background: url(../../images/nomor/gb/gbpic.png) no-repeat;
+	width: 20px;
+	height: 20px;
+}
+
+.ht-ic{
+	background: url(../../images/nomor/ht/htic.png) no-repeat;
+	width: 25px;
+	height: 25px;
+	background-size: cover;
+}
+
+.d2412-ic{
+	background: url(../../images/nomor/2412d.png) no-repeat;
+	width: 20px;
+	height: 20px;
+}
+
+.og-ic{
+	background: url(../../images/nomor/og/ogic.png) no-repeat;
+	width: 25px;
+	height: 25px;
+	background-size: cover;
+}
+
+.rl-ic{
+	background: url(../img/game_compressed_ic/rl.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.rw-ic{
+	background: url(../img/game_compressed_ic/rw.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.swic{
+	background: url(../../../images/nomor/sw/jari.png) no-repeat;
+    width: 22px;
+    height: 22px;
+}
+
+.sw-ic{
+	background: url(../img/game_compressed_ic/sw.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.jakarta-ic{
+	background: url(../img/game_compressed_ic/jakarta.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.singapore-ic{
+	background: url(../img/game_compressed_ic/singapore.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.hongkong-ic{
+	background: url(../img/game_compressed_ic/hongkong.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.sydney-ic{
+	background: url(../img/game_compressed_ic/sydney.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.jowo-ic{
+	background: url(../img/game_compressed_ic/jowo.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.magnum-ic{
+	background: url(../img/game_compressed_ic/magnum.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.shio-ic{
+	background: url(../img/game_compressed_ic/shio.png) no-repeat;
+	background-size: cover;
+
+	width: 25px;
+	height: 25px;
+}
+
+.trouble{
+  float:left;
+  width:18px;
+  height:17px;
+  margin-top:5px;
+  margin-right:7px;
+  background:url(../../images/icons.png) -85px -111px no-repeat;
+}
